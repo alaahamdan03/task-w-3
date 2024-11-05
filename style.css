@@ -1,0 +1,40 @@
+
+.carts{
+    width: 300px;
+    height: 400px;
+    background-color: white;
+    text-align: center;
+    border: 4px solid #cf680f63;   
+    border-radius: 2px;
+    display: inline-block;
+    margin: 100px 30px 100px 30px;*
+
+    
+}
+
+p{
+    font-size: 12px;
+    color: rgb(219, 140, 37);
+ 
+}
+ .carts h2{
+    font-family:  sans-serif ;
+    font-size: medium;
+    color: rgb(165, 61, 12);
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 1pc none;
+    border-radius: 50%;
+    margin-top: 30px;
+    
+}
+
+button{
+    margin-top: 30px;
+    border: 2px none;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(23, 137, 213);
+}
